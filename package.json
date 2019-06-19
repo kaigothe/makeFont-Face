@@ -1,0 +1,14 @@
+{
+  "name": "font-css-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeFontCSS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Gothe",
+  "license": "MIT",
+  "dependencies": {
+    "terminal-kit": "^1.28.1"
+  }
+}
