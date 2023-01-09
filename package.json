@@ -9,6 +9,6 @@
   "author": "Kai Gothe",
   "license": "MIT",
   "dependencies": {
-    "terminal-kit": "^1.28.1"
+    "terminal-kit": "^1.49.4"
   }
 }
